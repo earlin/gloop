@@ -36,6 +36,7 @@
     "tape": "^3.0.0"
   },
   "dependencies": {
-    "raf": "^2.0.4"
+    "raf": "^2.0.4",
+    "eventemitter3": "^4.0.0"
   }
 }
